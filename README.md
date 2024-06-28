@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hello there👋
+My name is Adam Bestajovský, online called Adisol. \
+I'm self-learned programmer, developer, software engineer, web developer and also trying AI stuff 🫣✨ \
+I love technology and science. \
+I'm 16 years old. \
+Studying at SPŠEK Rakovník. 📚 \
 
-<!--
-**Adisol07/Adisol07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+### Most popular
+ - [SaphireOS](https://github.com/Adisol07/SaphireOS)
+   - Simple operating system completly written in C#
 
-Here are some ideas to get you started:
+### Proud of
+ - [SaphireOS](https://github.com/Adisol07/SaphireOS)
+   - Simple operating system completly written in C#
+ - [SharperPortAudio](https://github.com/Adisol07/SharperPortAudio)
+   - Wrapper library for C++ library PortAudio
+ - [OhMyOS](https://github.com/Adisol07/OhMyOS)
+   - Library that allows you to utilize operating system specific stuff without blowing off your head😵‍💫🤯
+ - [SharpSpeech](https://github.com/Adisol07/SharpSpeech)
+   - Library that uses WhisperAI and SharperPortAudio to recognize text and listen for wake word
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Latest
+ - [domaincheck](https://github.com/Adisol07/domaincheck)
+   - Simple command-line tool allowing you to quickly check if domain is availible
+
+### School
+ - [SentientAI_SchoolProject](https://github.com/Adisol07/SentientAI_SchoolProject)
+   - Simple AI-like algorithm that rates how "good" is your sentence
+ - [HardwareUNemcu](https://github.com/Adisol07/HardwareUNemcu)
+   - Joke website made for motherboard project
+ - [AVLTree](https://github.com/Adisol07/AVLTree)
+   - AVL algorithm
+ - [Hangman](https://github.com/Adisol07/Hangman)
+   - Command-line hangman game
