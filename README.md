@@ -1,9 +1,9 @@
-## Hello there👋
+## Hello there 👋
 My name is Adam Bestajovský, online called Adisol. \
 I'm self-learned programmer, developer, software engineer, web developer and also trying AI stuff 🫣✨ \
-I love technology and science. \
+I love technology and science. 👨‍💻🔭 \
 I'm 16 years old. \
-Studying at SPŠEK Rakovník. 📚 \
+Studying at SPŠEK Rakovník. 📚📚
 
 ## Projects
 ### Most popular
@@ -16,13 +16,13 @@ Studying at SPŠEK Rakovník. 📚 \
  - [SharperPortAudio](https://github.com/Adisol07/SharperPortAudio)
    - Wrapper library for C++ library PortAudio
  - [OhMyOS](https://github.com/Adisol07/OhMyOS)
-   - Library that allows you to utilize operating system specific stuff without blowing off your head😵‍💫🤯
+   - Library that allows you to utilize operating system specific stuff without blowing off your head 😵‍💫🤯
  - [SharpSpeech](https://github.com/Adisol07/SharpSpeech)
-   - Library that uses WhisperAI and SharperPortAudio to recognize text and listen for wake word
+   - Library that uses WhisperAI and SharperPortAudio to recognize text and listen for wake word 🗣️🗣️
 
 ### Latest
  - [domaincheck](https://github.com/Adisol07/domaincheck)
-   - Simple command-line tool allowing you to quickly check if domain is availible
+   - Simple command-line tool allowing you to quickly check if domain is availible ✅
 
 ### School
  - [SentientAI_SchoolProject](https://github.com/Adisol07/SentientAI_SchoolProject)
