@@ -19,10 +19,14 @@ Studying at SPŠEK Rakovník. 📚📚
    - Library that allows you to utilize operating system-specific stuff without blowing off your head 😵‍💫🤯
  - [SharpSpeech](https://github.com/Adisol07/SharpSpeech)
    - Library that uses WhisperAI and SharperPortAudio to recognize text and listen for wake word 🗣️🗣️
-
-### Latest
  - [domaincheck](https://github.com/Adisol07/domaincheck)
    - Simple command-line tool allowing you to quickly check if domain is available ✅
+ - [ReasoningAI](https://github.com/Adisol07/ReasoningAI)
+   - Open source alternative to OpenAI o1 reasoning model
+
+### Latest
+ - [ReasoningAI](https://github.com/Adisol07/ReasoningAI)
+   - Open source alternative to OpenAI o1 reasoning model
 
 ### School
  - [SentientAI_SchoolProject](https://github.com/Adisol07/SentientAI_SchoolProject)
