@@ -2,7 +2,7 @@
 My name is Adam Bestajovský, online called Adisol. \
 I'm a self-taught programmer, developer, software engineer, web developer and also trying AI stuff 🫣✨ \
 I love technology and science. 👨‍💻🔭 \
-I'm 16 years old. \
+I'm 17 years old. \
 Studying at SPŠEK Rakovník. 📚📚
 
 ## Projects
@@ -25,8 +25,8 @@ Studying at SPŠEK Rakovník. 📚📚
    - Open source alternative to OpenAI o1 reasoning model
 
 ### Latest
- - [ReasoningAI](https://github.com/Adisol07/ReasoningAI)
-   - Open source alternative to OpenAI o1 reasoning model
+ - [FluentPort](https://github.com/Adisol07/FluentPort)
+   - Make you public instantly – remote port forwarding app
 
 ### School
  - [SentientAI_SchoolProject](https://github.com/Adisol07/SentientAI_SchoolProject)
