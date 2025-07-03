@@ -4,6 +4,7 @@ I'm a self-taught programmer, developer, software engineer, web developer and al
 I love technology and science. 👨‍💻🔭 \
 I'm 17 years old. \
 Studying at SPŠEK Rakovník. 📚📚
+Working at Valeo. 💼👨‍💼
 
 ## Projects
 ### Most popular
