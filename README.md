@@ -38,7 +38,3 @@ Working at Valeo. 💼👨‍💼
    - AVL algorithm
  - [Hangman](https://github.com/Adisol07/Hangman)
    - Command-line hangman game
-
----
-
-![Adisol's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adisol07&theme=dark&hide_border=true)
