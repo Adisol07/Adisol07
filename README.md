@@ -8,8 +8,8 @@ Working at Valeo. 💼👨‍💼
 
 ## Projects
 ### Most popular
- - [SaphireOS](https://github.com/Adisol07/SaphireOS)
-   - Simple operating system completely written in C#
+ - [ReasoningAI](https://github.com/Adisol07/ReasoningAI)
+   - Open source alternative to OpenAI o1 reasoning model
 
 ### Proud of
  - [SaphireOS](https://github.com/Adisol07/SaphireOS)
@@ -24,10 +24,6 @@ Working at Valeo. 💼👨‍💼
    - Simple command-line tool allowing you to quickly check if domain is available ✅
  - [ReasoningAI](https://github.com/Adisol07/ReasoningAI)
    - Open source alternative to OpenAI o1 reasoning model
-
-### Latest
- - [FluentPort](https://github.com/Adisol07/FluentPort)
-   - Make you public instantly – remote port forwarding app
 
 ### School
  - [SentientAI_SchoolProject](https://github.com/Adisol07/SentientAI_SchoolProject)
