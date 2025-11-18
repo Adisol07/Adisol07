@@ -2,7 +2,7 @@
 My name is Adam Bestajovský, online called Adisol. \
 I'm a self-taught programmer, developer, software engineer, web developer and also trying AI stuff 🫣✨ \
 I love technology and science. 👨‍💻🔭 \
-I'm 17 years old. \
+I'm 18 years old. \
 Studying at SPŠEK Rakovník. 📚📚 \
 Working at Valeo. 💼👨‍💼
 
