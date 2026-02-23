@@ -8,7 +8,7 @@ Working at Valeo. 💼👨‍💼
 
 ## Projects
 ### Most popular
- 🧠 [**ReasoningAI**](https://github.com/Adisol07/ReasoningAI)
+ 🧠 [ReasoningAI](https://github.com/Adisol07/ReasoningAI)
  > Open source alternative to OpenAI o1 reasoning model
 
 ### Proud of
