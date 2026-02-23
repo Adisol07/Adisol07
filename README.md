@@ -18,7 +18,7 @@ Working at Valeo. 💼👨‍💼
  🎤 [SharperPortAudio](https://github.com/Adisol07/SharperPortAudio)
  > Wrapper library for C++ library PortAudio
 
- 🎛️ [OhMyOS](https://github.com/Adisol07/OhMyOS)
+ 🎮 [OhMyOS](https://github.com/Adisol07/OhMyOS)
  > Library that allows you to utilize operating system-specific stuff without blowing off your head 😵‍💫🤯
 
  🗣️ [SharpSpeech](https://github.com/Adisol07/SharpSpeech)
@@ -37,7 +37,7 @@ Working at Valeo. 💼👨‍💼
  🔧 [HardwareUNemcu](https://github.com/Adisol07/HardwareUNemcu)
  > Joke website made for motherboard project
 
- 📊 [AVLTree](https://github.com/Adisol07/AVLTree)
+ 🪾 [AVLTree](https://github.com/Adisol07/AVLTree)
  > AVL algorithm
 
  🎲 [Hangman](https://github.com/Adisol07/Hangman)
