@@ -1,6 +1,6 @@
 ## Hello there 👋
 My name is Adam Bestajovský, online called Adisol. \
-I'm a self-taught programmer, developer, software engineer, web developer and also trying AI stuff 🫣✨ \
+I'm a self-taught programmer, developer, software engineer, independent student researcher and also trying AI stuff 🫣✨ \
 I love technology and science. 👨‍💻🔭 \
 I'm 18 years old. \
 Studying at SPŠEK Rakovník. 📚📚 \
